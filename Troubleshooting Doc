@@ -1,0 +1,3 @@
+TestNg Doesnot display under Run as Option, even after adding Jar files to the java build path.
+Solution : Initialise an eclipse>> Go to Help>>Click on Install New software >> Click on ADD>> and place TestNg in "NAME" AND https://beust.com/eclipse in place of Location >> click on ok and keep the installtion takes place>> Application ask for the restart and then you will see the testng as an option 
+

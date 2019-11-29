@@ -1,3 +1,6 @@
 TestNg Doesnot display under Run as Option, even after adding Jar files to the java build path.
 Solution : Initialise an eclipse>> Go to Help>>Click on Install New software >> Click on ADD>> and place TestNg in "NAME" AND https://beust.com/eclipse in place of Location >> click on ok and keep the installtion takes place>> Application ask for the restart and then you will see the testng as an option 
+After Restart >> Run the test case as Test ng >> JNI error occured ,Please check the installation error occured
+Now To troubleshoot this issues >> Download the JCommander » 1.7 jar and add it to the project Java build path and then again run as the project as TestNg .
+https://mvnrepository.com/artifact/com.beust/jcommander/1.7 >> It will fix the issue 
 
